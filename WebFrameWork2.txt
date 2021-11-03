@@ -1,0 +1,19 @@
+The first WebFrameWork we have decided to research is BootStrap which just like Angular is one of the Frameworks which was mentioned in class and priore to this class was one of the frameworks we have heard about due to its popularity and how long it has been around.
+The pros of BootStar are:
+*Bootstrap has fewer bugs and also is easily traversable cross browsers
+*Consisten Framework that supports major of all browsers and CSS compatibility Fixes.
+*Lightweight and easily customizable
+*Good Structure and styling
+*Alot of plugins for java using JQuery
+*Alot of free professional templates, wordpress themes and optional plug ins
+*Greay Grid System
+*Widgets and alot of new tools that are not used in other types of Web Frame Works
+*Centered Collums and flexible grids.
+*More of a begginners foundation.
+The Cons to bootstrap are:
+*This is very design based and not very coding based and there will be alot of style overrides and required rewrites.
+*The design portion tends to deviate people from the coding portion and causes disarray.
+*Doesnt work with HTML
+*Most plugins are unused because of the connection oif JavaScript to JQuery.
+*Have to go above and beyond onn design in order to make website look different from everyone elses.
+* Not alot of support from QA sites and troubleshooting. 
