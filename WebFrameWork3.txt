@@ -1,0 +1,14 @@
+The final framework we have decided to look into is VUE 
+The Pros of this Framework is:
+*The sizing is much smaller because of the ability for the framework to get rid of stuff that is not useful to the project
+*Code and component reusability 
+*Good for unit-QA testing
+QA testing and bugging 
+The cons of this Framework is:
+*Langauage Barrier
+*Reactivity Complexity
+*Risk of flexibilty
+*Lack of support and outdated
+*Limited resources
+*Lack of help for unexpoerinced people 
+*Lack of UI and integration of outside work
